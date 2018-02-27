@@ -1,7 +1,7 @@
 # Examples Spring Security 5
 
 Basic example of a Redirect to different pages (after authentication) mechanism, Java Configuration
-Also Static resources, choosing languages, error handling
+Also Static resources, choosing languages and error handling
 
 Technologies:
 - Java 8
